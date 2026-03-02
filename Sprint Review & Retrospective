@@ -1,0 +1,39 @@
+Raphael Dedes 
+
+CS-250 
+
+Professor Krupa 
+
+February 22, 2026 
+
+As the Scrum Master for the SNHU Travel project at ChadaTech, my role is to facilitate the Sprint Review and Retrospective while ensuring that all Scrum roles were aligned and contributing effectively to our goals. Throughout this course, I rotated through different Scrum roles, including Developer and Scrum Master, through discussion boards, journals, and coding assignments. Putting myself in the shoes of these roles helped give me insight into how each contributes to a project’s success. 
+
+When acting as a Developer, I emphasized collaboration and reducing silos during a transition from Waterfall to Agile. In discussions with my team members at Vision Quest Software, I described how moving to a Sprint-based development would reduce uneven workloads and encourage shared responsibility among developers and testers. I also mentioned how participating in Sprint Planning and Daily Scrums would improve visibility and allow blockers to be addressed early. This demonstrated how the Developer role contributes not only technical work but also active collaboration within Scrum events.  
+
+While acting as a Scrum Master, I focused on servant leadership, transparency, and removing impediments. The Scrum Master is to facilitate team discussions and reflections through Sprint Reviews and Retrospectives, emphasizing openness and continuous improvement. This reinforces the importance of Scrum’s core pillars; transparency, inspection, and adaptation (Schwaber & Sutherland, 2020). 
+
+Though I have not personally acted as a Product Owner before, I have interacted with those who have, whether through peer discussions or drafted emails. The Product Owner is mainly responsible for creating and prioritizing the product backlog. Regarding the SNHU Travel Project, this would mean defining acceptance criteria for testing, stakeholder management, and prioritizing user stories, and deciding which features of the project are the most important and should be focused on first.  
+
+The Scrum-Agile approach supported user story completion by breaking larger requirements into smaller, more attainable tasks. As Scrum Master, I help ensure that user stories are well-defined, and that progress is transparent. For instance, I clarified user stories before creating test cases for the SNHU Travel Project, ensuring alignment between development and testing activities. Using Sprint based cycles, each story was completed incrementally, and early identification of blockers prevented further delays. This iterative approach allowed consistent progress toward project goals, as shown throughout the modules of this course.  
+
+Interruptions during a project, such as evolving requirements or adding more user features, are managed effectively through the Scrum framework. By facilitating backlog refinement and Sprint planning, I helped the team adapt priorities and incorporate changes without disrupting the entire project’s workflow. For example, when additional features were suggested for the SNHU Travel booking project, they were incorporated into the next session, demonstrating Agile’s flexibility and reducing risk compared to the traditional Waterfall approach. 
+
+Effective communication is essential to the role of Scrum Master. I have facilitated discussion posts and email exchanges to clarify requirements, share progress, and address questions about workloads and workflow. For one example, I asked my team members how they would manage resistance to Daily Scrums and retrospectives, promoting open discussion and engagement strategies. These communications were effective because they encouraged transparency, accountability, collaboration, and reflect Scrum’s emphasis on open dialogue and inspection. 
+
+Organizational tools play a key role in keeping an Agile team aligned. The product backlog centralizes all the project requirements, and the Sprint backlog focuses the team on their immediate Sprint goals. To enhance visibility and track progress, we used information radiators such as tasks boards and burndown charts, which make it easier to identify delays or bottlenecks. In addition to those, Agile project management tools such as JIRA are particularly valuable. JIRA can manage backlog items, assign tasks, update statuses, and track progress across Sprints. Features like the ticket assignments and reporting dashboards increase visibility for all team members and promotes accountability (Altassian, n.d.). These tools combined with Scrum events, Sprint planning, Daily Scrums, Sprint Reviews, and Retrospectives, enable structured inspection and adaptation, reinforcing collaboration, and helping the team stay aligned on their project goals. 
+
+The Scrum-Agile approach offered several advantages during the SNHU Travel project. Its iterative structure allowed for incremental delivery and adaptation to ever changing requirements, such as switching from niche vacation packages to wellness and detox getaways. Breaking the work into smaller increments made complex user stories more manageable, while still allowing the team to easily shift their overall project goals. Even with the need for consistent engagement with the project team to maintain progress, I still believe the Scrum-Agile framework was the best approach for the SNHU Travel project because it supported flexibility, collaboration accross all roles, and enabled iterative refinement of features, which are benefits that a Waterfall approach would not have provided (Mishra & Alzoubi, 2023). 
+
+ 
+
+ 
+
+References 
+
+Atlassian. (n.d.). Agile project management with Jira.  https://www.atlassian.com/software/jira/agile 
+
+Mishra, A., & Alzoubi, Y. I. (2023). Structured software development versus agile software development: A comparative analysis. International Journal of System Assurance Engineering and Management, 14, 1504–1522. https://link.springer.com/article/10.1007/s13198-023-01958-5 
+
+Struk, V. (2025, June 4). Agile software development life cycle: Phases, tools, roadmap. Relevant Software. https://relevant.software/blog/agile-software-development-lifecycle-phases-explained/ 
+
+Schwaber, K., & Sutherland, J. (2020). The Scrum guide: The definitive guide to Scrum: The rules of the game. Scrum.org. 
